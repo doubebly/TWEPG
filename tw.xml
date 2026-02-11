@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv data="20260211020429 +0800">
+<tv data="20260212015751 +0800">
 <channel id="4gtv-4gtv003"><display-name lang="zh">民視第一台</display-name></channel>
 <programme start="20260211000000 +0800" stop="20260211021500 +0800" channel="4gtv-4gtv003"><title lang="zh">豆腐媽媽【普】(E36)</title></programme>
 <programme start="20260211021500 +0800" stop="20260211023000 +0800" channel="4gtv-4gtv003"><title lang="zh">元氣加油站【普】(E3016)</title></programme>
@@ -208,7 +208,7 @@
 <programme start="20260211130000 +0800" stop="20260211151500 +0800" channel="4gtv-4gtv002"><title lang="zh">豆腐媽媽【普】(E36)</title></programme>
 <programme start="20260211151500 +0800" stop="20260211151600 +0800" channel="4gtv-4gtv002"><title lang="zh">新歌介紹【普】(E93)</title></programme>
 <programme start="20260211151600 +0800" stop="20260211151700 +0800" channel="4gtv-4gtv002"><title lang="zh">新歌介紹【普】(E103)</title></programme>
-<programme start="20260211151700 +0800" stop="20260211153000 +0800" channel="4gtv-4gtv002"><title lang="zh">消費高手【普】(E7914)</title></programme>
+<programme start="20260211151700 +0800" stop="20260211153000 +0800" channel="4gtv-4gtv002"><title lang="zh">消費高手【普】(E7718)</title></programme>
 <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv002"><title lang="zh">消費高手【普】(E7962)</title></programme>
 <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="4gtv-4gtv002"><title lang="zh">元氣加油站【普】(E3013)</title></programme>
 <programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="4gtv-4gtv002"><title lang="zh">全民好健康【普】(E4)</title></programme>
@@ -1021,7 +1021,7 @@
 <programme start="20260211060000 +0800" stop="20260211070000 +0800" channel="4gtv-4gtv064"><title lang="zh">皇恩浩蕩(普)</title></programme>
 <programme start="20260211070000 +0800" stop="20260211080000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視早安新聞(普)</title></programme>
 <programme start="20260211080000 +0800" stop="20260211100000 +0800" channel="4gtv-4gtv064"><title lang="zh">歌聲滿天下(普)</title></programme>
-<programme start="20260211100000 +0800" stop="20260211115800 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
+<programme start="20260211100000 +0800" stop="20260211115800 +0800" channel="4gtv-4gtv064"><title lang="zh">群星演唱秀(普)</title></programme>
 <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視午間新聞(普)</title></programme>
 <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="4gtv-4gtv064"><title lang="zh">紅顏花(普)</title></programme>
 <programme start="20260211140000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
@@ -1040,7 +1040,7 @@
 <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="4gtv-4gtv064"><title lang="zh">皇恩浩蕩(普)</title></programme>
 <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視早安新聞(普)</title></programme>
 <programme start="20260212080000 +0800" stop="20260212100000 +0800" channel="4gtv-4gtv064"><title lang="zh">歌聲滿天下(普)</title></programme>
-<programme start="20260212100000 +0800" stop="20260212115800 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
+<programme start="20260212100000 +0800" stop="20260212115800 +0800" channel="4gtv-4gtv064"><title lang="zh">群星演唱秀(普)</title></programme>
 <programme start="20260212115800 +0800" stop="20260212130000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視午間新聞(普)</title></programme>
 <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="4gtv-4gtv064"><title lang="zh">紅顏花(普)</title></programme>
 <programme start="20260212140000 +0800" stop="20260212160000 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
@@ -1059,7 +1059,7 @@
 <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="4gtv-4gtv064"><title lang="zh">皇恩浩蕩(普)</title></programme>
 <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視早安新聞(普)</title></programme>
 <programme start="20260213080000 +0800" stop="20260213100000 +0800" channel="4gtv-4gtv064"><title lang="zh">歌聲滿天下(普)</title></programme>
-<programme start="20260213100000 +0800" stop="20260213115800 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
+<programme start="20260213100000 +0800" stop="20260213115800 +0800" channel="4gtv-4gtv064"><title lang="zh">群星演唱秀(普)</title></programme>
 <programme start="20260213115800 +0800" stop="20260213130000 +0800" channel="4gtv-4gtv064"><title lang="zh">中視午間新聞(普)</title></programme>
 <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="4gtv-4gtv064"><title lang="zh">紅顏花(普)</title></programme>
 <programme start="20260213140000 +0800" stop="20260213160000 +0800" channel="4gtv-4gtv064"><title lang="zh">飢餓遊戲(普)</title></programme>
@@ -4179,7 +4179,7 @@
 <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="4gtv-4gtv153"><title lang="zh">打卡吧!我的炫FOOD日記</title></programme>
 <programme start="20260213050000 +0800" stop="20260213060000 +0800" channel="4gtv-4gtv153"><title lang="zh">銅板美食呷透透</title></programme>
 <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="4gtv-4gtv153"><title lang="zh">進擊的台灣</title></programme>
-<programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="4gtv-4gtv153"><title lang="zh">進擊的台灣</title></programme>
+<programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="4gtv-4gtv153"><title lang="zh">57怪奇物語</title></programme>
 <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="4gtv-4gtv153"><title lang="zh">現代啟示錄</title></programme>
 <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="4gtv-4gtv153"><title lang="zh">重案組</title></programme>
 <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="4gtv-4gtv153"><title lang="zh">重返時間線</title></programme>
@@ -13292,25 +13292,6 @@
 <programme start="20260213224900 +0800" stop="20260213233400 +0800" channel="4gtv-live010"><title lang="zh">珍珠耳環48</title></programme>
 <programme start="20260213233400 +0800" stop="20260214000100 +0800" channel="4gtv-live010"><title lang="zh">凜子小姐想試愛05</title></programme>
 <channel id="iNEWS"><display-name lang="zh">三立新聞iNEWS</display-name></channel>
-<programme start="20260211020000 +0800" stop="20260211030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
-<programme start="20260211030000 +0800" stop="20260211050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
-<programme start="20260211050000 +0800" stop="20260211060000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211070000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
-<programme start="20260211070000 +0800" stop="20260211080000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
-<programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
-<programme start="20260211090000 +0800" stop="20260211095500 +0800" channel="iNEWS"><title lang="zh">iNEWS0900整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211095500 +0800" stop="20260211105500 +0800" channel="iNEWS"><title lang="zh">iNEWS1000整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211105500 +0800" stop="20260211115500 +0800" channel="iNEWS"><title lang="zh">iNEWS1100整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211115500 +0800" stop="20260211140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
-<programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1400整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="iNEWS"><title lang="zh">智富食代</title><desc lang="zh"/></programme>
-<programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211170000 +0800" stop="20260211180000 +0800" channel="iNEWS"><title lang="zh">iNEWS1700整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260211195500 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
-<programme start="20260211195500 +0800" stop="20260211203000 +0800" channel="iNEWS"><title lang="zh">iNEWS大世界</title><desc lang="zh"/></programme>
-<programme start="20260211203000 +0800" stop="20260211210000 +0800" channel="iNEWS"><title lang="zh">全民i彩券</title><desc lang="zh"/></programme>
-<programme start="20260211210000 +0800" stop="20260211230000 +0800" channel="iNEWS"><title lang="zh">關我什麼事</title><desc lang="zh"/></programme>
-<programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <programme start="20260212000000 +0800" stop="20260212020000 +0800" channel="iNEWS"><title lang="zh">關我什麼事</title><desc lang="zh"/></programme>
 <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <programme start="20260212030000 +0800" stop="20260212050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
@@ -13389,30 +13370,29 @@
 <programme start="20260215130000 +0800" stop="20260215140000 +0800" channel="iNEWS"><title lang="zh">好宅敲敲門</title><desc lang="zh"/></programme>
 <programme start="20260215140000 +0800" stop="20260215150000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
 <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="iNEWS"><title lang="zh">吃貨請跟上</title><desc lang="zh"/></programme>
+<programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="iNEWS"><title lang="zh">話時代人物</title><desc lang="zh"/></programme>
+<programme start="20260215170000 +0800" stop="20260215180000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經晚報</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260215200000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
+<programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="iNEWS"><title lang="zh">360大世界</title><desc lang="zh"/></programme>
+<programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
+<programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="iNEWS"><title lang="zh">台灣新思路</title><desc lang="zh"/></programme>
+<programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="iNEWS"><title lang="zh">驚爆新聞線</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="iNEWS"><title lang="zh">驚爆新聞線</title><desc lang="zh"/></programme>
+<programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
+<programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="iNEWS"><title lang="zh">台灣新思路</title><desc lang="zh"/></programme>
+<programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="iNEWS"><title lang="zh">好宅敲敲門</title><desc lang="zh"/></programme>
+<programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
+<programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="iNEWS"><title lang="zh">360大世界</title><desc lang="zh"/></programme>
+<programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
+<programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
+<programme start="20260216090000 +0800" stop="20260216095500 +0800" channel="iNEWS"><title lang="zh">iNEWS0900整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260216095500 +0800" stop="20260216105500 +0800" channel="iNEWS"><title lang="zh">iNEWS1000整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260216105500 +0800" stop="20260216115500 +0800" channel="iNEWS"><title lang="zh">iNEWS1100整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260216115500 +0800" stop="20260216140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
+<programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1400整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="iNEWS"><title lang="zh">智富食代</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv158"><display-name lang="zh">寰宇財經台</display-name></channel>
-<programme start="20260211020000 +0800" stop="20260211030000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
-<programme start="20260211030000 +0800" stop="20260211040000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
-<programme start="20260211040000 +0800" stop="20260211050000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
-<programme start="20260211050000 +0800" stop="20260211060000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211070000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260211070000 +0800" stop="20260211080000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
-<programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="4gtv-4gtv158"><title lang="zh">財經透視線</title><desc lang="zh"/></programme>
-<programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
-<programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
-<programme start="20260211170000 +0800" stop="20260211180000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260211190000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
-<programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
-<programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
-<programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="4gtv-4gtv158"><title lang="zh">57爆新聞</title><desc lang="zh"/></programme>
-<programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="4gtv-4gtv158"><title lang="zh">57爆新聞</title><desc lang="zh"/></programme>
-<programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="4gtv-4gtv158"><title lang="zh">怪奇物語</title><desc lang="zh"/></programme>
 <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
 <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
@@ -13500,11 +13480,32 @@
 <programme start="20260215130000 +0800" stop="20260215140000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
 <programme start="20260215140000 +0800" stop="20260215150000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
+<programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260215170000 +0800" stop="20260215180000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260215190000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260215190000 +0800" stop="20260215200000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260215200000 +0800" stop="20260215203000 +0800" channel="4gtv-4gtv158"><title lang="zh">賺錢放大術</title><desc lang="zh"/></programme>
+<programme start="20260215203000 +0800" stop="20260215210000 +0800" channel="4gtv-4gtv158"><title lang="zh">賺錢放大術</title><desc lang="zh"/></programme>
+<programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="4gtv-4gtv158"><title lang="zh">寰宇追追追</title><desc lang="zh"/></programme>
+<programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="4gtv-4gtv158"><title lang="zh">現代啟示錄</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="4gtv-4gtv158"><title lang="zh">賺錢放大術</title><desc lang="zh"/></programme>
+<programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="4gtv-4gtv158"><title lang="zh">搜查事件簿</title><desc lang="zh"/></programme>
+<programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
+<programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="4gtv-4gtv158"><title lang="zh">賺錢放大術</title><desc lang="zh"/></programme>
+<programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="4gtv-4gtv158"><title lang="zh">台灣大代誌#1</title><desc lang="zh"/></programme>
+<programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
+<programme start="20260216110000 +0800" stop="20260216120000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260216120000 +0800" stop="20260216130000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
+<programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="4gtv-4gtv158"><title lang="zh">寰宇追追追</title><desc lang="zh"/></programme>
 <channel id="nnews-zh"><display-name lang="zh">倪珍播新聞</display-name></channel>
-<programme start="20260211000000 +0800" stop="20260211060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
-<programme start="20260211120000 +0800" stop="20260211180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260212000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260212000000 +0800" stop="20260212060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260212060000 +0800" stop="20260212120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
 <programme start="20260212120000 +0800" stop="20260212180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
@@ -13519,50 +13520,11 @@
 <programme start="20260214180000 +0800" stop="20260215000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260215000000 +0800" stop="20260215060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260215060000 +0800" stop="20260215120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
+<programme start="20260215120000 +0800" stop="20260215180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260216000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv104"><display-name lang="zh">第1商業台</display-name></channel>
-<programme start="20260211020000 +0800" stop="20260211023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
-<programme start="20260211023000 +0800" stop="20260211030000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
-<programme start="20260211030000 +0800" stop="20260211033000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260211033000 +0800" stop="20260211040000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260211040000 +0800" stop="20260211043000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
-<programme start="20260211043000 +0800" stop="20260211050000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260211050000 +0800" stop="20260211053000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260211053000 +0800" stop="20260211060000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211063000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
-<programme start="20260211063000 +0800" stop="20260211070000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
-<programme start="20260211070000 +0800" stop="20260211073000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260211073000 +0800" stop="20260211080000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
-<programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211083000 +0800" stop="20260211093000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211093000 +0800" stop="20260211100000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260211140000 +0800" stop="20260211143000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
-<programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
-<programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="4gtv-4gtv104"><title lang="zh">汪海華_操盤的智慧</title><desc lang="zh"/></programme>
-<programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
-<programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260211190000 +0800" stop="20260211193000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
-<programme start="20260211193000 +0800" stop="20260211200000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260211200000 +0800" stop="20260211203000 +0800" channel="4gtv-4gtv104"><title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title><desc lang="zh"/></programme>
-<programme start="20260211203000 +0800" stop="20260211210000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260211210000 +0800" stop="20260211213000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
-<programme start="20260211213000 +0800" stop="20260211220000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260211220000 +0800" stop="20260211223000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
-<programme start="20260211223000 +0800" stop="20260211230000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
-<programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260211233000 +0800" stop="20260212000000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
-<programme start="20260212000000 +0800" stop="20260212003000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260212010000 +0800" stop="20260212013000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <programme start="20260212013000 +0800" stop="20260212020000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
 <programme start="20260212020000 +0800" stop="20260212023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
 <programme start="20260212023000 +0800" stop="20260212030000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
@@ -13720,42 +13682,51 @@
 <programme start="20260215143000 +0800" stop="20260215150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
 <programme start="20260215150000 +0800" stop="20260215153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
 <programme start="20260215153000 +0800" stop="20260215160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260215160000 +0800" stop="20260215163000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
+<programme start="20260215163000 +0800" stop="20260215170000 +0800" channel="4gtv-4gtv104"><title lang="zh">汪海華_操盤的智慧</title><desc lang="zh"/></programme>
+<programme start="20260215170000 +0800" stop="20260215173000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
+<programme start="20260215173000 +0800" stop="20260215180000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260215183000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260215183000 +0800" stop="20260215190000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260215190000 +0800" stop="20260215193000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
+<programme start="20260215193000 +0800" stop="20260215200000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260215200000 +0800" stop="20260215203000 +0800" channel="4gtv-4gtv104"><title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title><desc lang="zh"/></programme>
+<programme start="20260215203000 +0800" stop="20260215210000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260215210000 +0800" stop="20260215213000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
+<programme start="20260215213000 +0800" stop="20260215220000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260215220000 +0800" stop="20260215223000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
+<programme start="20260215223000 +0800" stop="20260215230000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
+<programme start="20260215230000 +0800" stop="20260215233000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260215233000 +0800" stop="20260216000000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216003000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260216003000 +0800" stop="20260216010000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260216010000 +0800" stop="20260216013000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260216013000 +0800" stop="20260216020000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260216020000 +0800" stop="20260216023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
+<programme start="20260216023000 +0800" stop="20260216030000 +0800" channel="4gtv-4gtv104"><title lang="zh">贏家應對-顧德投顧-林泓橡分析師</title><desc lang="zh"/></programme>
+<programme start="20260216030000 +0800" stop="20260216033000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260216033000 +0800" stop="20260216040000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260216040000 +0800" stop="20260216043000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
+<programme start="20260216043000 +0800" stop="20260216050000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260216050000 +0800" stop="20260216053000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260216053000 +0800" stop="20260216060000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
+<programme start="20260216063000 +0800" stop="20260216070000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
+<programme start="20260216070000 +0800" stop="20260216073000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260216073000 +0800" stop="20260216080000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
+<programme start="20260216080000 +0800" stop="20260216083000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216083000 +0800" stop="20260216093000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216093000 +0800" stop="20260216100000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216100000 +0800" stop="20260216103000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216103000 +0800" stop="20260216110000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216110000 +0800" stop="20260216120000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216120000 +0800" stop="20260216130000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260216140000 +0800" stop="20260216143000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260216143000 +0800" stop="20260216150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
+<programme start="20260216150000 +0800" stop="20260216153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260216153000 +0800" stop="20260216160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv102"><display-name lang="zh">東森購物1台</display-name></channel>
-<programme start="20260211020000 +0800" stop="20260211024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211024000 +0800" stop="20260211032000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211032000 +0800" stop="20260211040000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211040000 +0800" stop="20260211044000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211044000 +0800" stop="20260211052000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211052000 +0800" stop="20260211060000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211064000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211064000 +0800" stop="20260211072000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211072000 +0800" stop="20260211080000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211080000 +0800" stop="20260211084000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211084000 +0800" stop="20260211092000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211092000 +0800" stop="20260211100000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211100000 +0800" stop="20260211104000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211104000 +0800" stop="20260211112000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211112000 +0800" stop="20260211120000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211120000 +0800" stop="20260211124000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211124000 +0800" stop="20260211132000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211132000 +0800" stop="20260211140000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211140000 +0800" stop="20260211144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211144000 +0800" stop="20260211152000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211152000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211160000 +0800" stop="20260211164000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211164000 +0800" stop="20260211172000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211172000 +0800" stop="20260211180000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260211184000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211184000 +0800" stop="20260211192000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211192000 +0800" stop="20260211200000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211200000 +0800" stop="20260211204000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211204000 +0800" stop="20260211212000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211212000 +0800" stop="20260211220000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211220000 +0800" stop="20260211224000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211224000 +0800" stop="20260211232000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211232000 +0800" stop="20260212000000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260212000000 +0800" stop="20260212004000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260212004000 +0800" stop="20260212012000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260212012000 +0800" stop="20260212020000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
 <programme start="20260212020000 +0800" stop="20260212024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260212024000 +0800" stop="20260212032000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
@@ -13886,42 +13857,43 @@
 <programme start="20260215140000 +0800" stop="20260215144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260215144000 +0800" stop="20260215152000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
 <programme start="20260215152000 +0800" stop="20260215160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215160000 +0800" stop="20260215164000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215164000 +0800" stop="20260215172000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215172000 +0800" stop="20260215180000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260215184000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215184000 +0800" stop="20260215192000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215192000 +0800" stop="20260215200000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215200000 +0800" stop="20260215204000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215204000 +0800" stop="20260215212000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215212000 +0800" stop="20260215220000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215220000 +0800" stop="20260215224000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215224000 +0800" stop="20260215232000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215232000 +0800" stop="20260216000000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216004000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216004000 +0800" stop="20260216012000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216012000 +0800" stop="20260216020000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216020000 +0800" stop="20260216024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216024000 +0800" stop="20260216032000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216032000 +0800" stop="20260216040000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216040000 +0800" stop="20260216044000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216044000 +0800" stop="20260216052000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216052000 +0800" stop="20260216060000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216064000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216064000 +0800" stop="20260216072000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216072000 +0800" stop="20260216080000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216080000 +0800" stop="20260216084000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216084000 +0800" stop="20260216092000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216092000 +0800" stop="20260216100000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216100000 +0800" stop="20260216104000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216104000 +0800" stop="20260216112000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216112000 +0800" stop="20260216120000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216120000 +0800" stop="20260216124000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216124000 +0800" stop="20260216132000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216132000 +0800" stop="20260216140000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216140000 +0800" stop="20260216144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216144000 +0800" stop="20260216152000 +0800" channel="4gtv-4gtv102"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216152000 +0800" stop="20260216160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv103"><display-name lang="zh">東森購物2台</display-name></channel>
-<programme start="20260211020000 +0800" stop="20260211024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211024000 +0800" stop="20260211032000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211032000 +0800" stop="20260211040000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211040000 +0800" stop="20260211044000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211044000 +0800" stop="20260211052000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211052000 +0800" stop="20260211060000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211060000 +0800" stop="20260211064000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211064000 +0800" stop="20260211072000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211072000 +0800" stop="20260211080000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211080000 +0800" stop="20260211084000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211084000 +0800" stop="20260211092000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211092000 +0800" stop="20260211100000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211100000 +0800" stop="20260211104000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211104000 +0800" stop="20260211112000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211112000 +0800" stop="20260211120000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211120000 +0800" stop="20260211124000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211124000 +0800" stop="20260211132000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211132000 +0800" stop="20260211140000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211140000 +0800" stop="20260211144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211144000 +0800" stop="20260211152000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211152000 +0800" stop="20260211160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211160000 +0800" stop="20260211164000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211164000 +0800" stop="20260211172000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211172000 +0800" stop="20260211180000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211180000 +0800" stop="20260211184000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211184000 +0800" stop="20260211192000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211192000 +0800" stop="20260211200000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211200000 +0800" stop="20260211204000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211204000 +0800" stop="20260211212000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211212000 +0800" stop="20260211220000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211220000 +0800" stop="20260211224000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260211224000 +0800" stop="20260211232000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260211232000 +0800" stop="20260212000000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260212000000 +0800" stop="20260212004000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
-<programme start="20260212004000 +0800" stop="20260212012000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260212012000 +0800" stop="20260212020000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
 <programme start="20260212020000 +0800" stop="20260212024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260212024000 +0800" stop="20260212032000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
@@ -14052,4 +14024,40 @@
 <programme start="20260215140000 +0800" stop="20260215144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260215144000 +0800" stop="20260215152000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
 <programme start="20260215152000 +0800" stop="20260215160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215160000 +0800" stop="20260215164000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215164000 +0800" stop="20260215172000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215172000 +0800" stop="20260215180000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215180000 +0800" stop="20260215184000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215184000 +0800" stop="20260215192000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215192000 +0800" stop="20260215200000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215200000 +0800" stop="20260215204000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215204000 +0800" stop="20260215212000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215212000 +0800" stop="20260215220000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215220000 +0800" stop="20260215224000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260215224000 +0800" stop="20260215232000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260215232000 +0800" stop="20260216000000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216000000 +0800" stop="20260216004000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216004000 +0800" stop="20260216012000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216012000 +0800" stop="20260216020000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216020000 +0800" stop="20260216024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216024000 +0800" stop="20260216032000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216032000 +0800" stop="20260216040000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216040000 +0800" stop="20260216044000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216044000 +0800" stop="20260216052000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216052000 +0800" stop="20260216060000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216060000 +0800" stop="20260216064000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216064000 +0800" stop="20260216072000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216072000 +0800" stop="20260216080000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216080000 +0800" stop="20260216084000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216084000 +0800" stop="20260216092000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216092000 +0800" stop="20260216100000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216100000 +0800" stop="20260216104000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216104000 +0800" stop="20260216112000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216112000 +0800" stop="20260216120000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216120000 +0800" stop="20260216124000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216124000 +0800" stop="20260216132000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216132000 +0800" stop="20260216140000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216140000 +0800" stop="20260216144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260216144000 +0800" stop="20260216152000 +0800" channel="4gtv-4gtv103"><title lang="zh">2/1-2/28全月消費實付滿8,000元送【888元現金券】(每人限贈1次)</title><desc lang="zh"/></programme>
+<programme start="20260216152000 +0800" stop="20260216160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 </tv>
