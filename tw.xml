@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv data="20260327020031 +0800">
+<tv data="20260328015125 +0800">
 <channel id="4gtv-4gtv003"><display-name lang="zh">民視第一台</display-name></channel>
 <programme start="20260327000000 +0800" stop="20260327020000 +0800" channel="4gtv-4gtv003"><title lang="zh">豆腐媽媽【普】(E67)</title></programme>
 <programme start="20260327020000 +0800" stop="20260327023000 +0800" channel="4gtv-4gtv003"><title lang="zh">消費高手【普】(E3039)</title></programme>
@@ -627,9 +627,9 @@
 <programme start="20260328190000 +0800" stop="20260328200000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視晚間新聞</title></programme>
 <programme start="20260328200000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視新聞雜誌</title></programme>
 <programme start="20260328210000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv041"><title lang="zh">國際線，出發！</title></programme>
-<programme start="20260328220000 +0800" stop="20260329001000 +0800" channel="4gtv-4gtv041"><title lang="zh">天才衝衝衝</title></programme>
-<programme start="20260329001000 +0800" stop="20260329021000 +0800" channel="4gtv-4gtv041"><title lang="zh">台灣體能王</title></programme>
-<programme start="20260329021000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視2400夜間新聞</title></programme>
+<programme start="20260328220000 +0800" stop="20260329001500 +0800" channel="4gtv-4gtv041"><title lang="zh">天才衝衝衝</title></programme>
+<programme start="20260329001500 +0800" stop="20260329021500 +0800" channel="4gtv-4gtv041"><title lang="zh">台灣體能王</title></programme>
+<programme start="20260329021500 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視2400夜間新聞</title></programme>
 <programme start="20260329030000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視新聞雜誌</title></programme>
 <programme start="20260329040000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv041"><title lang="zh">華視2400夜間新聞</title></programme>
 <programme start="20260329050000 +0800" stop="20260329070000 +0800" channel="4gtv-4gtv041"><title lang="zh">名模出任務</title></programme>
@@ -762,7 +762,7 @@
 <programme start="20260328080000 +0800" stop="20260328083000 +0800" channel="4gtv-4gtv043"><title lang="zh">奧林P客第 1523 集</title></programme>
 <programme start="20260328083000 +0800" stop="20260328084500 +0800" channel="4gtv-4gtv043"><title lang="zh">ㄤ牯ㄤ牯咕咕咕(大埔腔)第 165 集</title></programme>
 <programme start="20260328084500 +0800" stop="20260328090000 +0800" channel="4gtv-4gtv043"><title lang="zh">ㄤ牯ㄤ牯咕咕咕(饒平腔)第 166 集</title></programme>
-<programme start="20260328090000 +0800" stop="20260328095000 +0800" channel="4gtv-4gtv043"><title lang="zh">客庄走透透第 23 集</title></programme>
+<programme start="20260328090000 +0800" stop="20260328095000 +0800" channel="4gtv-4gtv043"><title lang="zh">樹說新語第 5 集</title></programme>
 <programme start="20260328095000 +0800" stop="20260328100000 +0800" channel="4gtv-4gtv043"><title lang="zh">客語半生熟第 51 集</title></programme>
 <programme start="20260328100000 +0800" stop="20260328105500 +0800" channel="4gtv-4gtv043"><title lang="zh">溜麵線雜貨店第 4 集</title></programme>
 <programme start="20260328105500 +0800" stop="20260328110000 +0800" channel="4gtv-4gtv043"><title lang="zh">昆蟲捉迷藏第 11 集</title></programme>
@@ -777,13 +777,13 @@
 <programme start="20260328140000 +0800" stop="20260328154000 +0800" channel="4gtv-4gtv043"><title lang="zh">八戒：決戰未來(多元語特別版)第 1 集</title></programme>
 <programme start="20260328154000 +0800" stop="20260328155000 +0800" channel="4gtv-4gtv043"><title lang="zh">拉拉雜雜有土伯第 21 集</title></programme>
 <programme start="20260328155000 +0800" stop="20260328160000 +0800" channel="4gtv-4gtv043"><title lang="zh">拉拉雜雜有土伯第 22 集</title></programme>
-<programme start="20260328160000 +0800" stop="20260328165500 +0800" channel="4gtv-4gtv043"><title lang="zh">客庄走透透第 23 集</title></programme>
+<programme start="20260328160000 +0800" stop="20260328165500 +0800" channel="4gtv-4gtv043"><title lang="zh">樹說新語第 5 集</title></programme>
 <programme start="20260328165500 +0800" stop="20260328170000 +0800" channel="4gtv-4gtv043"><title lang="zh">拉拉雜雜有土伯第 13 集</title></programme>
 <programme start="20260328170000 +0800" stop="20260328190000 +0800" channel="4gtv-4gtv043"><title lang="zh">鬧熱打擂台第 512 集</title></programme>
 <programme start="20260328190000 +0800" stop="20260328192500 +0800" channel="4gtv-4gtv043"><title lang="zh">暗夜新聞第 87 集</title></programme>
 <programme start="20260328192500 +0800" stop="20260328193000 +0800" channel="4gtv-4gtv043"><title lang="zh">客客客棧第 53 集</title></programme>
 <programme start="20260328193000 +0800" stop="20260328200000 +0800" channel="4gtv-4gtv043"><title lang="zh">小O事件簿第 142 集</title></programme>
-<programme start="20260328200000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv043"><title lang="zh">客家新聞雜誌第 992 集</title></programme>
+<programme start="20260328200000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv043"><title lang="zh">客家新聞雜誌第 977 集</title></programme>
 <programme start="20260328205000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv043"><title lang="zh">客語半生熟第 53 集</title></programme>
 <programme start="20260328210000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv043"><title lang="zh">都市開基祖第 1 集</title></programme>
 <programme start="20260328220000 +0800" stop="20260328230000 +0800" channel="4gtv-4gtv043"><title lang="zh">都市開基祖第 2 集</title></programme>
@@ -792,7 +792,7 @@
 <programme start="20260329003000 +0800" stop="20260329010000 +0800" channel="4gtv-4gtv043"><title lang="zh">暗夜新聞第 87 集</title></programme>
 <programme start="20260329010000 +0800" stop="20260329020000 +0800" channel="4gtv-4gtv043"><title lang="zh">都市開基祖第 1 集</title></programme>
 <programme start="20260329020000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv043"><title lang="zh">都市開基祖第 2 集</title></programme>
-<programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv043"><title lang="zh">客庄走透透第 23 集</title></programme>
+<programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv043"><title lang="zh">樹說新語第 5 集</title></programme>
 <programme start="20260329035000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv043"><title lang="zh">客語半生熟第 53 集</title></programme>
 <programme start="20260329040000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv043"><title lang="zh">聚焦國際第 720 集</title></programme>
 <programme start="20260329050000 +0800" stop="20260329051500 +0800" channel="4gtv-4gtv043"><title lang="zh">嗨客嘶第 51 集</title></programme>
@@ -803,7 +803,7 @@
 <programme start="20260329080000 +0800" stop="20260329083000 +0800" channel="4gtv-4gtv043"><title lang="zh">奧林P客第 1524 集</title></programme>
 <programme start="20260329083000 +0800" stop="20260329084500 +0800" channel="4gtv-4gtv043"><title lang="zh">ㄤ牯ㄤ牯咕咕咕(詔安腔)第 167 集</title></programme>
 <programme start="20260329084500 +0800" stop="20260329090000 +0800" channel="4gtv-4gtv043"><title lang="zh">ㄤ牯ㄤ牯咕咕咕(南四縣腔)第 168 集</title></programme>
-<programme start="20260329090000 +0800" stop="20260329095000 +0800" channel="4gtv-4gtv043"><title lang="zh">客庄走透透第 24 集</title></programme>
+<programme start="20260329090000 +0800" stop="20260329095000 +0800" channel="4gtv-4gtv043"><title lang="zh">樹說新語第 6 集</title></programme>
 <programme start="20260329095000 +0800" stop="20260329100000 +0800" channel="4gtv-4gtv043"><title lang="zh">客語半生熟第 52 集</title></programme>
 <programme start="20260329100000 +0800" stop="20260329105500 +0800" channel="4gtv-4gtv043"><title lang="zh">懂吃懂吃來煮食第 56 集</title></programme>
 <programme start="20260329105500 +0800" stop="20260329110000 +0800" channel="4gtv-4gtv043"><title lang="zh">昆蟲捉迷藏第 12 集</title></programme>
@@ -815,7 +815,7 @@
 <programme start="20260329125500 +0800" stop="20260329130000 +0800" channel="4gtv-4gtv043"><title lang="zh">客客客棧第 54 集</title></programme>
 <programme start="20260329130000 +0800" stop="20260329150000 +0800" channel="4gtv-4gtv043"><title lang="zh">鬧熱打擂台第 512 集</title></programme>
 <programme start="20260329150000 +0800" stop="20260329160000 +0800" channel="4gtv-4gtv043"><title lang="zh">啊喔！最kiang駐村小隊第 10 集</title></programme>
-<programme start="20260329160000 +0800" stop="20260329165500 +0800" channel="4gtv-4gtv043"><title lang="zh">客庄走透透第 24 集</title></programme>
+<programme start="20260329160000 +0800" stop="20260329165500 +0800" channel="4gtv-4gtv043"><title lang="zh">樹說新語第 6 集</title></programme>
 <programme start="20260329165500 +0800" stop="20260329170000 +0800" channel="4gtv-4gtv043"><title lang="zh">拉拉雜雜有土伯第 14 集</title></programme>
 <programme start="20260329170000 +0800" stop="20260329171500 +0800" channel="4gtv-4gtv043"><title lang="zh">森林偵探隊Ⅲ(南四縣腔)第 14 集</title></programme>
 <programme start="20260329171500 +0800" stop="20260329173000 +0800" channel="4gtv-4gtv043"><title lang="zh">ㄤ牯ㄤ牯咕咕咕(南四縣腔)第 164 集</title></programme>
@@ -1563,6 +1563,8 @@
 <programme start="20260329213000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv079"><title lang="zh">DIPLOMATS ARCHIVE: HIDDEN STORIES(普)</title></programme>
 <programme start="20260329220000 +0800" stop="20260329223000 +0800" channel="4gtv-4gtv079"><title lang="zh">PREMIUM COLLECTION(普)</title></programme>
 <programme start="20260329223000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv079"><title lang="zh">PREMIUM COLLECTION(普)</title></programme>
+<programme start="20260329230000 +0800" stop="20260329233000 +0800" channel="4gtv-4gtv079"><title lang="zh">K-STAGE PAN(普)</title></programme>
+<programme start="20260329233000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv079"><title lang="zh">IM LIVE(普)</title></programme>
 <channel id="4gtv-live112"><display-name lang="zh">Global Trekker</display-name></channel>
 <programme start="20260327000500 +0800" stop="20260327005500 +0800" channel="4gtv-live112"><title lang="zh">米高 J 福克斯：演員樂觀活動家(普)</title></programme>
 <programme start="20260327005500 +0800" stop="20260327014500 +0800" channel="4gtv-live112"><title lang="zh">小勞勃道尼：爬上高峰(普)</title></programme>
@@ -3829,8 +3831,8 @@
 <programme start="20260329190000 +0800" stop="20260329200000 +0800" channel="4gtv-4gtv052"><title lang="zh">華視晚間新聞</title></programme>
 <programme start="20260329200000 +0800" stop="20260329210000 +0800" channel="4gtv-4gtv052"><title lang="zh">新聞高峰會</title></programme>
 <programme start="20260329210000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv052"><title lang="zh">國際線，出發！</title></programme>
-<programme start="20260329220000 +0800" stop="20260329223000 +0800" channel="4gtv-4gtv052"><title lang="zh">Top People封面人物</title></programme>
-<programme start="20260329223000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv052"><title lang="zh">華視2200夜間新聞</title></programme>
+<programme start="20260329220000 +0800" stop="20260329223000 +0800" channel="4gtv-4gtv052"><title lang="zh">華視2200夜間新聞</title></programme>
+<programme start="20260329223000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv052"><title lang="zh">運算風暴</title></programme>
 <programme start="20260329230000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv052"><title lang="zh">華視夜間新聞</title></programme>
 <channel id="litv-ftv13"><display-name lang="zh">民視新聞台</display-name></channel>
 <programme start="20260327010000 +0800" stop="20260327013000 +0800" channel="litv-ftv13"><title lang="zh">民視英語新聞【普】</title></programme>
@@ -4502,7 +4504,7 @@
 <programme start="20260329125500 +0800" stop="20260329135500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇午間新聞      (普)</title></programme>
 <programme start="20260329135500 +0800" stop="20260329145500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇整點新聞      (普)</title></programme>
 <programme start="20260329145500 +0800" stop="20260329155500 +0800" channel="4gtv-4gtv156"><title lang="zh">噓你不知道的事                  (普)</title></programme>
-<programme start="20260329155500 +0800" stop="20260329165500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇整點新聞      (普)</title></programme>
+<programme start="20260329155500 +0800" stop="20260329165500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇晚間新聞     (普)</title></programme>
 <programme start="20260329165500 +0800" stop="20260329175500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇晚間新聞     (普)</title></programme>
 <programme start="20260329175500 +0800" stop="20260329185500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇晚間新聞     (普)</title></programme>
 <programme start="20260329185500 +0800" stop="20260329195500 +0800" channel="4gtv-4gtv156"><title lang="zh">寰宇晚間新聞     (普)</title></programme>
@@ -5363,256 +5365,510 @@
 <channel id="4gtv-4gtv016"><display-name lang="zh">韓國娛樂台 KMTV</display-name></channel>
 <programme start="20260327000000 +0800" stop="20260327005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327000000 +0800" stop="20260327005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327000000 +0800" stop="20260327005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327000000 +0800" stop="20260327005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327005000 +0800" stop="20260327010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
+<programme start="20260327005000 +0800" stop="20260327010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327005000 +0800" stop="20260327010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327005000 +0800" stop="20260327010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327010000 +0800" stop="20260327015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327010000 +0800" stop="20260327015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327010000 +0800" stop="20260327015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327010000 +0800" stop="20260327015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327015000 +0800" stop="20260327020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lim Jiyeon)(普)</title></programme>
+<programme start="20260327015000 +0800" stop="20260327020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lim Jiyeon)(普)</title></programme>
 <programme start="20260327015000 +0800" stop="20260327020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lim Jiyeon)(普)</title></programme>
 <programme start="20260327015000 +0800" stop="20260327020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lim Jiyeon)(普)</title></programme>
 <programme start="20260327020000 +0800" stop="20260327025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327020000 +0800" stop="20260327025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327020000 +0800" stop="20260327025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327020000 +0800" stop="20260327025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327025000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
+<programme start="20260327025000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327025000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327025000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327030000 +0800" stop="20260327035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327030000 +0800" stop="20260327035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327030000 +0800" stop="20260327035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327030000 +0800" stop="20260327035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327035000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
+<programme start="20260327035000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327035000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327035000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327040000 +0800" stop="20260327045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327040000 +0800" stop="20260327045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327040000 +0800" stop="20260327045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327040000 +0800" stop="20260327045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327045000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Nam Jihyun)(普)</title></programme>
+<programme start="20260327045000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Nam Jihyun)(普)</title></programme>
 <programme start="20260327045000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Nam Jihyun)(普)</title></programme>
 <programme start="20260327045000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Nam Jihyun)(普)</title></programme>
 <programme start="20260327050000 +0800" stop="20260327055000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327050000 +0800" stop="20260327055000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327050000 +0800" stop="20260327055000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327050000 +0800" stop="20260327055000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327055000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
+<programme start="20260327055000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327055000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327055000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (654)(普)</title></programme>
 <programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (654)(普)</title></programme>
+<programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (654)(普)</title></programme>
+<programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (654)(普)</title></programme>
+<programme start="20260327070000 +0800" stop="20260327075000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
+<programme start="20260327070000 +0800" stop="20260327075000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
 <programme start="20260327070000 +0800" stop="20260327075000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
 <programme start="20260327070000 +0800" stop="20260327075000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
 <programme start="20260327075000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (I Dol I)(普)</title></programme>
 <programme start="20260327075000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (I Dol I)(普)</title></programme>
+<programme start="20260327075000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (I Dol I)(普)</title></programme>
+<programme start="20260327075000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (I Dol I)(普)</title></programme>
+<programme start="20260327080000 +0800" stop="20260327094000 +0800" channel="4gtv-4gtv016"><title lang="zh">兩天一夜 第4季  (14)(普)</title></programme>
+<programme start="20260327080000 +0800" stop="20260327094000 +0800" channel="4gtv-4gtv016"><title lang="zh">兩天一夜 第4季  (14)(普)</title></programme>
 <programme start="20260327080000 +0800" stop="20260327094000 +0800" channel="4gtv-4gtv016"><title lang="zh">兩天一夜 第4季  (14)(普)</title></programme>
 <programme start="20260327080000 +0800" stop="20260327094000 +0800" channel="4gtv-4gtv016"><title lang="zh">兩天一夜 第4季  (14)(普)</title></programme>
 <programme start="20260327094000 +0800" stop="20260327095000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Stray Kids)(普)</title></programme>
 <programme start="20260327094000 +0800" stop="20260327095000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Stray Kids)(普)</title></programme>
+<programme start="20260327094000 +0800" stop="20260327095000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Stray Kids)(普)</title></programme>
+<programme start="20260327094000 +0800" stop="20260327095000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Stray Kids)(普)</title></programme>
+<programme start="20260327095000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Seo Eunkwang)(普)</title></programme>
+<programme start="20260327095000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Seo Eunkwang)(普)</title></programme>
 <programme start="20260327095000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Seo Eunkwang)(普)</title></programme>
 <programme start="20260327095000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Seo Eunkwang)(普)</title></programme>
 <programme start="20260327100000 +0800" stop="20260327105000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327100000 +0800" stop="20260327105000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327100000 +0800" stop="20260327105000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327100000 +0800" stop="20260327105000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327105000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
+<programme start="20260327105000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327105000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327105000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Choi Woo Sik)(普)</title></programme>
 <programme start="20260327110000 +0800" stop="20260327115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327110000 +0800" stop="20260327115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327110000 +0800" stop="20260327115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327110000 +0800" stop="20260327115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327115000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lim Jiyeon)(普)</title></programme>
+<programme start="20260327115000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lim Jiyeon)(普)</title></programme>
 <programme start="20260327115000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lim Jiyeon)(普)</title></programme>
 <programme start="20260327115000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lim Jiyeon)(普)</title></programme>
 <programme start="20260327120000 +0800" stop="20260327125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327120000 +0800" stop="20260327125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327120000 +0800" stop="20260327125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327120000 +0800" stop="20260327125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327125000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
+<programme start="20260327125000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327125000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327125000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260327130000 +0800" stop="20260327135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327130000 +0800" stop="20260327135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327130000 +0800" stop="20260327135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327130000 +0800" stop="20260327135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327135000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
+<programme start="20260327135000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327135000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327135000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (An Bohyun)(普)</title></programme>
 <programme start="20260327140000 +0800" stop="20260327145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327140000 +0800" stop="20260327145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327140000 +0800" stop="20260327145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327140000 +0800" stop="20260327145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327145000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
+<programme start="20260327145000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327145000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327145000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260327150000 +0800" stop="20260327153000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
 <programme start="20260327150000 +0800" stop="20260327153000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260327150000 +0800" stop="20260327153000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260327150000 +0800" stop="20260327153000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260327153000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
+<programme start="20260327153000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260327153000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260327153000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="4gtv-4gtv016"><title lang="zh">愛豆演員的化身 第三季  (9)(普)</title></programme>
 <programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="4gtv-4gtv016"><title lang="zh">愛豆演員的化身 第三季  (9)(普)</title></programme>
+<programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="4gtv-4gtv016"><title lang="zh">愛豆演員的化身 第三季  (9)(普)</title></programme>
+<programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="4gtv-4gtv016"><title lang="zh">愛豆演員的化身 第三季  (9)(普)</title></programme>
+<programme start="20260327163000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv016"><title lang="zh">TWICE 十年如一  (TWICE Special)(普)</title></programme>
+<programme start="20260327163000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv016"><title lang="zh">TWICE 十年如一  (TWICE Special)(普)</title></programme>
 <programme start="20260327163000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv016"><title lang="zh">TWICE 十年如一  (TWICE Special)(普)</title></programme>
 <programme start="20260327163000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv016"><title lang="zh">TWICE 十年如一  (TWICE Special)(普)</title></programme>
 <programme start="20260327170000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (69)(普)</title></programme>
 <programme start="20260327170000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (69)(普)</title></programme>
+<programme start="20260327170000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (69)(普)</title></programme>
+<programme start="20260327170000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (69)(普)</title></programme>
+<programme start="20260327184000 +0800" stop="20260327185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( S.Coup X Mingyu)(普)</title></programme>
+<programme start="20260327184000 +0800" stop="20260327185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( S.Coup X Mingyu)(普)</title></programme>
 <programme start="20260327184000 +0800" stop="20260327185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( S.Coup X Mingyu)(普)</title></programme>
 <programme start="20260327184000 +0800" stop="20260327185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( S.Coup X Mingyu)(普)</title></programme>
 <programme start="20260327185000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Nam Woohyun)(普)</title></programme>
 <programme start="20260327185000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Nam Woohyun)(普)</title></programme>
+<programme start="20260327185000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Nam Woohyun)(普)</title></programme>
+<programme start="20260327185000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Nam Woohyun)(普)</title></programme>
+<programme start="20260327190000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
+<programme start="20260327190000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260327190000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260327190000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260327204000 +0800" stop="20260327205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
 <programme start="20260327204000 +0800" stop="20260327205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260327204000 +0800" stop="20260327205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260327204000 +0800" stop="20260327205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260327205000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
+<programme start="20260327205000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260327205000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260327205000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260327210000 +0800" stop="20260327215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327210000 +0800" stop="20260327215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327210000 +0800" stop="20260327215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327210000 +0800" stop="20260327215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327215000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
+<programme start="20260327215000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260327215000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260327215000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260327220000 +0800" stop="20260327225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327220000 +0800" stop="20260327225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327220000 +0800" stop="20260327225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327220000 +0800" stop="20260327225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327225000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
+<programme start="20260327225000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260327225000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260327225000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260327230000 +0800" stop="20260327235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260327230000 +0800" stop="20260327235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327230000 +0800" stop="20260327235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327230000 +0800" stop="20260327235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260327235000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
+<programme start="20260327235000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260327235000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260327235000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328000000 +0800" stop="20260328005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328000000 +0800" stop="20260328005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328000000 +0800" stop="20260328005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328000000 +0800" stop="20260328005000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328005000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
+<programme start="20260328005000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328005000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328005000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328010000 +0800" stop="20260328015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328010000 +0800" stop="20260328015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328010000 +0800" stop="20260328015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328010000 +0800" stop="20260328015000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328015000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
+<programme start="20260328015000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328015000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328015000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328020000 +0800" stop="20260328025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328020000 +0800" stop="20260328025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328020000 +0800" stop="20260328025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328020000 +0800" stop="20260328025000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328025000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
+<programme start="20260328025000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328025000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328025000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328030000 +0800" stop="20260328035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328030000 +0800" stop="20260328035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328030000 +0800" stop="20260328035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328030000 +0800" stop="20260328035000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328035000 +0800" stop="20260328040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
+<programme start="20260328035000 +0800" stop="20260328040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328035000 +0800" stop="20260328040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328035000 +0800" stop="20260328040000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328040000 +0800" stop="20260328045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328040000 +0800" stop="20260328045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328040000 +0800" stop="20260328045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328040000 +0800" stop="20260328045000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328045000 +0800" stop="20260328050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
+<programme start="20260328045000 +0800" stop="20260328050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328045000 +0800" stop="20260328050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328045000 +0800" stop="20260328050000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328050000 +0800" stop="20260328053000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
 <programme start="20260328050000 +0800" stop="20260328053000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260328050000 +0800" stop="20260328053000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260328050000 +0800" stop="20260328053000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (7)(普)</title></programme>
+<programme start="20260328053000 +0800" stop="20260328060000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
+<programme start="20260328053000 +0800" stop="20260328060000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260328053000 +0800" stop="20260328060000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260328053000 +0800" stop="20260328060000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (8)(普)</title></programme>
 <programme start="20260328060000 +0800" stop="20260328070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_1)(普)</title></programme>
 <programme start="20260328060000 +0800" stop="20260328070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_1)(普)</title></programme>
+<programme start="20260328060000 +0800" stop="20260328070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_1)(普)</title></programme>
+<programme start="20260328060000 +0800" stop="20260328070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_1)(普)</title></programme>
+<programme start="20260328070000 +0800" stop="20260328075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328070000 +0800" stop="20260328075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328070000 +0800" stop="20260328075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328070000 +0800" stop="20260328075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328075000 +0800" stop="20260328080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Park Bogum)(普)</title></programme>
 <programme start="20260328075000 +0800" stop="20260328080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Park Bogum)(普)</title></programme>
+<programme start="20260328075000 +0800" stop="20260328080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Park Bogum)(普)</title></programme>
+<programme start="20260328075000 +0800" stop="20260328080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Park Bogum)(普)</title></programme>
+<programme start="20260328080000 +0800" stop="20260328085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328080000 +0800" stop="20260328085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328080000 +0800" stop="20260328085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328080000 +0800" stop="20260328085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328085000 +0800" stop="20260328090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lee Dong Wook)(普)</title></programme>
 <programme start="20260328085000 +0800" stop="20260328090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lee Dong Wook)(普)</title></programme>
+<programme start="20260328085000 +0800" stop="20260328090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lee Dong Wook)(普)</title></programme>
+<programme start="20260328085000 +0800" stop="20260328090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Lee Dong Wook)(普)</title></programme>
+<programme start="20260328090000 +0800" stop="20260328104000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
+<programme start="20260328090000 +0800" stop="20260328104000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260328090000 +0800" stop="20260328104000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260328090000 +0800" stop="20260328104000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (40)(普)</title></programme>
 <programme start="20260328104000 +0800" stop="20260328105000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
 <programme start="20260328104000 +0800" stop="20260328105000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260328104000 +0800" stop="20260328105000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260328104000 +0800" stop="20260328105000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Monsta X)(普)</title></programme>
+<programme start="20260328105000 +0800" stop="20260328110000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
+<programme start="20260328105000 +0800" stop="20260328110000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260328105000 +0800" stop="20260328110000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260328105000 +0800" stop="20260328110000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Miyeon)(普)</title></programme>
 <programme start="20260328110000 +0800" stop="20260328115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328110000 +0800" stop="20260328115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328110000 +0800" stop="20260328115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328110000 +0800" stop="20260328115000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328115000 +0800" stop="20260328120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
+<programme start="20260328115000 +0800" stop="20260328120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328115000 +0800" stop="20260328120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328115000 +0800" stop="20260328120000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Park Shinhye)(普)</title></programme>
 <programme start="20260328120000 +0800" stop="20260328125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328120000 +0800" stop="20260328125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328120000 +0800" stop="20260328125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328120000 +0800" stop="20260328125000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328125000 +0800" stop="20260328130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
+<programme start="20260328125000 +0800" stop="20260328130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328125000 +0800" stop="20260328130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328125000 +0800" stop="20260328130000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260328130000 +0800" stop="20260328135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328130000 +0800" stop="20260328135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328130000 +0800" stop="20260328135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328130000 +0800" stop="20260328135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328135000 +0800" stop="20260328140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
+<programme start="20260328135000 +0800" stop="20260328140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328135000 +0800" stop="20260328140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328135000 +0800" stop="20260328140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoona)(普)</title></programme>
 <programme start="20260328140000 +0800" stop="20260328145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328140000 +0800" stop="20260328145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328140000 +0800" stop="20260328145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328140000 +0800" stop="20260328145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328145000 +0800" stop="20260328150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
+<programme start="20260328145000 +0800" stop="20260328150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328145000 +0800" stop="20260328150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328145000 +0800" stop="20260328150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Yoon Kye Sang)(普)</title></programme>
 <programme start="20260328150000 +0800" stop="20260328160000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
 <programme start="20260328150000 +0800" stop="20260328160000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
+<programme start="20260328150000 +0800" stop="20260328160000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
+<programme start="20260328150000 +0800" stop="20260328160000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
+<programme start="20260328160000 +0800" stop="20260328163000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260328160000 +0800" stop="20260328163000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
 <programme start="20260328160000 +0800" stop="20260328163000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
 <programme start="20260328160000 +0800" stop="20260328163000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
 <programme start="20260328163000 +0800" stop="20260328170000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260328163000 +0800" stop="20260328170000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
+<programme start="20260328163000 +0800" stop="20260328170000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
+<programme start="20260328163000 +0800" stop="20260328170000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
+<programme start="20260328170000 +0800" stop="20260328184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (70)(普)</title></programme>
+<programme start="20260328170000 +0800" stop="20260328184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (70)(普)</title></programme>
 <programme start="20260328170000 +0800" stop="20260328184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (70)(普)</title></programme>
 <programme start="20260328170000 +0800" stop="20260328184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (70)(普)</title></programme>
 <programme start="20260328184000 +0800" stop="20260328185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Minho)(普)</title></programme>
 <programme start="20260328184000 +0800" stop="20260328185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Minho)(普)</title></programme>
+<programme start="20260328184000 +0800" stop="20260328185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Minho)(普)</title></programme>
+<programme start="20260328184000 +0800" stop="20260328185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Minho)(普)</title></programme>
+<programme start="20260328185000 +0800" stop="20260328190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (LE SSERAFIM)(普)</title></programme>
+<programme start="20260328185000 +0800" stop="20260328190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (LE SSERAFIM)(普)</title></programme>
 <programme start="20260328185000 +0800" stop="20260328190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (LE SSERAFIM)(普)</title></programme>
 <programme start="20260328185000 +0800" stop="20260328190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (LE SSERAFIM)(普)</title></programme>
 <programme start="20260328190000 +0800" stop="20260328204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
 <programme start="20260328190000 +0800" stop="20260328204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260328190000 +0800" stop="20260328204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260328190000 +0800" stop="20260328204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260328204000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
+<programme start="20260328204000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260328204000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260328204000 +0800" stop="20260328205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260328205000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kim Yohan)(普)</title></programme>
 <programme start="20260328205000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kim Yohan)(普)</title></programme>
+<programme start="20260328205000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kim Yohan)(普)</title></programme>
+<programme start="20260328205000 +0800" stop="20260328210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kim Yohan)(普)</title></programme>
+<programme start="20260328210000 +0800" stop="20260328215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328210000 +0800" stop="20260328215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328210000 +0800" stop="20260328215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328210000 +0800" stop="20260328215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328215000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Junho)(普)</title></programme>
 <programme start="20260328215000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Junho)(普)</title></programme>
+<programme start="20260328215000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Junho)(普)</title></programme>
+<programme start="20260328215000 +0800" stop="20260328220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Junho)(普)</title></programme>
+<programme start="20260328220000 +0800" stop="20260328225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328220000 +0800" stop="20260328225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328220000 +0800" stop="20260328225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328220000 +0800" stop="20260328225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328225000 +0800" stop="20260328230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Youngkwang)(普)</title></programme>
 <programme start="20260328225000 +0800" stop="20260328230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Youngkwang)(普)</title></programme>
+<programme start="20260328225000 +0800" stop="20260328230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Youngkwang)(普)</title></programme>
+<programme start="20260328225000 +0800" stop="20260328230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Youngkwang)(普)</title></programme>
+<programme start="20260328230000 +0800" stop="20260328235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260328230000 +0800" stop="20260328235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328230000 +0800" stop="20260328235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328230000 +0800" stop="20260328235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260328235000 +0800" stop="20260329000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Ji Changwook)(普)</title></programme>
 <programme start="20260328235000 +0800" stop="20260329000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Ji Changwook)(普)</title></programme>
+<programme start="20260328235000 +0800" stop="20260329000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Ji Changwook)(普)</title></programme>
+<programme start="20260328235000 +0800" stop="20260329000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Ji Changwook)(普)</title></programme>
+<programme start="20260329000000 +0800" stop="20260329020000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329000000 +0800" stop="20260329020000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329000000 +0800" stop="20260329020000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329000000 +0800" stop="20260329020000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329020000 +0800" stop="20260329023000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
 <programme start="20260329020000 +0800" stop="20260329023000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329020000 +0800" stop="20260329023000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329020000 +0800" stop="20260329023000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329023000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
+<programme start="20260329023000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329023000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329023000 +0800" stop="20260329030000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (1)(普)</title></programme>
 <programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (1)(普)</title></programme>
+<programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (1)(普)</title></programme>
+<programme start="20260329030000 +0800" stop="20260329035000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (1)(普)</title></programme>
+<programme start="20260329035000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (A Nice Guy)(普)</title></programme>
+<programme start="20260329035000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (A Nice Guy)(普)</title></programme>
 <programme start="20260329035000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (A Nice Guy)(普)</title></programme>
 <programme start="20260329035000 +0800" stop="20260329040000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  (A Nice Guy)(普)</title></programme>
 <programme start="20260329040000 +0800" stop="20260329045000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
 <programme start="20260329040000 +0800" stop="20260329045000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
+<programme start="20260329040000 +0800" stop="20260329045000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
+<programme start="20260329040000 +0800" stop="20260329045000 +0800" channel="4gtv-4gtv016"><title lang="zh">叢林工藝  (2)(普)</title></programme>
+<programme start="20260329045000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  ( I Dol I)(普)</title></programme>
+<programme start="20260329045000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  ( I Dol I)(普)</title></programme>
 <programme start="20260329045000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  ( I Dol I)(普)</title></programme>
 <programme start="20260329045000 +0800" stop="20260329050000 +0800" channel="4gtv-4gtv016"><title lang="zh">電視原聲帶  ( I Dol I)(普)</title></programme>
 <programme start="20260329050000 +0800" stop="20260329053000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (7)(普)</title></programme>
 <programme start="20260329050000 +0800" stop="20260329053000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (7)(普)</title></programme>
+<programme start="20260329050000 +0800" stop="20260329053000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (7)(普)</title></programme>
+<programme start="20260329050000 +0800" stop="20260329053000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (7)(普)</title></programme>
+<programme start="20260329053000 +0800" stop="20260329060000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (8)(普)</title></programme>
+<programme start="20260329053000 +0800" stop="20260329060000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (8)(普)</title></programme>
 <programme start="20260329053000 +0800" stop="20260329060000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (8)(普)</title></programme>
 <programme start="20260329053000 +0800" stop="20260329060000 +0800" channel="4gtv-4gtv016"><title lang="zh">K-POP 舞步大揭密  (8)(普)</title></programme>
 <programme start="20260329060000 +0800" stop="20260329070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_2)(普)</title></programme>
 <programme start="20260329060000 +0800" stop="20260329070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_2)(普)</title></programme>
+<programme start="20260329060000 +0800" stop="20260329070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_2)(普)</title></programme>
+<programme start="20260329060000 +0800" stop="20260329070000 +0800" channel="4gtv-4gtv016"><title lang="zh">Genie TOP 100 第586集  (586_2)(普)</title></programme>
+<programme start="20260329070000 +0800" stop="20260329075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329070000 +0800" stop="20260329075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329070000 +0800" stop="20260329075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329070000 +0800" stop="20260329075000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329075000 +0800" stop="20260329080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Heesun)(普)</title></programme>
 <programme start="20260329075000 +0800" stop="20260329080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Heesun)(普)</title></programme>
+<programme start="20260329075000 +0800" stop="20260329080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Heesun)(普)</title></programme>
+<programme start="20260329075000 +0800" stop="20260329080000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Heesun)(普)</title></programme>
+<programme start="20260329080000 +0800" stop="20260329085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329080000 +0800" stop="20260329085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329080000 +0800" stop="20260329085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329080000 +0800" stop="20260329085000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329085000 +0800" stop="20260329090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Choi Woo Sik)(普)</title></programme>
 <programme start="20260329085000 +0800" stop="20260329090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Choi Woo Sik)(普)</title></programme>
+<programme start="20260329085000 +0800" stop="20260329090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Choi Woo Sik)(普)</title></programme>
+<programme start="20260329085000 +0800" stop="20260329090000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Choi Woo Sik)(普)</title></programme>
+<programme start="20260329090000 +0800" stop="20260329100000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
+<programme start="20260329090000 +0800" stop="20260329100000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
 <programme start="20260329090000 +0800" stop="20260329100000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
 <programme start="20260329090000 +0800" stop="20260329100000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓國娛樂週刊  (655)(普)</title></programme>
 <programme start="20260329100000 +0800" stop="20260329103000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
 <programme start="20260329100000 +0800" stop="20260329103000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329100000 +0800" stop="20260329103000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329100000 +0800" stop="20260329103000 +0800" channel="4gtv-4gtv016"><title lang="zh">隱藏版歌曲 第四季  (1)(普)</title></programme>
+<programme start="20260329103000 +0800" stop="20260329110000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
+<programme start="20260329103000 +0800" stop="20260329110000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329103000 +0800" stop="20260329110000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329103000 +0800" stop="20260329110000 +0800" channel="4gtv-4gtv016"><title lang="zh">偶像排行榜  (1)(普)</title></programme>
 <programme start="20260329110000 +0800" stop="20260329124000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
 <programme start="20260329110000 +0800" stop="20260329124000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260329110000 +0800" stop="20260329124000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260329110000 +0800" stop="20260329124000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (41)(普)</title></programme>
+<programme start="20260329124000 +0800" stop="20260329125000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
+<programme start="20260329124000 +0800" stop="20260329125000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260329124000 +0800" stop="20260329125000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260329124000 +0800" stop="20260329125000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Kyuhyun)(普)</title></programme>
 <programme start="20260329125000 +0800" stop="20260329130000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Kim Yohan)(普)</title></programme>
 <programme start="20260329125000 +0800" stop="20260329130000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Kim Yohan)(普)</title></programme>
+<programme start="20260329125000 +0800" stop="20260329130000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Kim Yohan)(普)</title></programme>
+<programme start="20260329125000 +0800" stop="20260329130000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  ( Kim Yohan)(普)</title></programme>
+<programme start="20260329130000 +0800" stop="20260329135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329130000 +0800" stop="20260329135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329130000 +0800" stop="20260329135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329130000 +0800" stop="20260329135000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329135000 +0800" stop="20260329140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Jehoon)(普)</title></programme>
 <programme start="20260329135000 +0800" stop="20260329140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Jehoon)(普)</title></programme>
+<programme start="20260329135000 +0800" stop="20260329140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Jehoon)(普)</title></programme>
+<programme start="20260329135000 +0800" stop="20260329140000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  ( Lee Jehoon)(普)</title></programme>
+<programme start="20260329140000 +0800" stop="20260329145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329140000 +0800" stop="20260329145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329140000 +0800" stop="20260329145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329140000 +0800" stop="20260329145000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329145000 +0800" stop="20260329150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Sejeong)(普)</title></programme>
 <programme start="20260329145000 +0800" stop="20260329150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Sejeong)(普)</title></programme>
+<programme start="20260329145000 +0800" stop="20260329150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Sejeong)(普)</title></programme>
+<programme start="20260329145000 +0800" stop="20260329150000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Kim Sejeong)(普)</title></programme>
+<programme start="20260329150000 +0800" stop="20260329155000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329150000 +0800" stop="20260329155000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329150000 +0800" stop="20260329155000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329150000 +0800" stop="20260329155000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329155000 +0800" stop="20260329160000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Go Hyun Jung)(普)</title></programme>
 <programme start="20260329155000 +0800" stop="20260329160000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Go Hyun Jung)(普)</title></programme>
+<programme start="20260329155000 +0800" stop="20260329160000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Go Hyun Jung)(普)</title></programme>
+<programme start="20260329155000 +0800" stop="20260329160000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Go Hyun Jung)(普)</title></programme>
+<programme start="20260329160000 +0800" stop="20260329163000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (9)(普)</title></programme>
+<programme start="20260329160000 +0800" stop="20260329163000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (9)(普)</title></programme>
 <programme start="20260329160000 +0800" stop="20260329163000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (9)(普)</title></programme>
 <programme start="20260329160000 +0800" stop="20260329163000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (9)(普)</title></programme>
 <programme start="20260329163000 +0800" stop="20260329170000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (10)(普)</title></programme>
 <programme start="20260329163000 +0800" stop="20260329170000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (10)(普)</title></programme>
+<programme start="20260329163000 +0800" stop="20260329170000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (10)(普)</title></programme>
+<programme start="20260329163000 +0800" stop="20260329170000 +0800" channel="4gtv-4gtv016"><title lang="zh">最愛韓星 第四季  (10)(普)</title></programme>
+<programme start="20260329170000 +0800" stop="20260329184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (71)(普)</title></programme>
+<programme start="20260329170000 +0800" stop="20260329184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (71)(普)</title></programme>
 <programme start="20260329170000 +0800" stop="20260329184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (71)(普)</title></programme>
 <programme start="20260329170000 +0800" stop="20260329184000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (71)(普)</title></programme>
 <programme start="20260329184000 +0800" stop="20260329185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (KickFlip)(普)</title></programme>
 <programme start="20260329184000 +0800" stop="20260329185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (KickFlip)(普)</title></programme>
+<programme start="20260329184000 +0800" stop="20260329185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (KickFlip)(普)</title></programme>
+<programme start="20260329184000 +0800" stop="20260329185000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (KickFlip)(普)</title></programme>
+<programme start="20260329185000 +0800" stop="20260329190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Key)(普)</title></programme>
+<programme start="20260329185000 +0800" stop="20260329190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Key)(普)</title></programme>
 <programme start="20260329185000 +0800" stop="20260329190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Key)(普)</title></programme>
 <programme start="20260329185000 +0800" stop="20260329190000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Key)(普)</title></programme>
 <programme start="20260329190000 +0800" stop="20260329204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (42)(普)</title></programme>
 <programme start="20260329190000 +0800" stop="20260329204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (42)(普)</title></programme>
+<programme start="20260329190000 +0800" stop="20260329204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (42)(普)</title></programme>
+<programme start="20260329190000 +0800" stop="20260329204000 +0800" channel="4gtv-4gtv016"><title lang="zh">超人回來了  (42)(普)</title></programme>
+<programme start="20260329204000 +0800" stop="20260329205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jung Yong Hwa)(普)</title></programme>
+<programme start="20260329204000 +0800" stop="20260329205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jung Yong Hwa)(普)</title></programme>
 <programme start="20260329204000 +0800" stop="20260329205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jung Yong Hwa)(普)</title></programme>
 <programme start="20260329204000 +0800" stop="20260329205000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jung Yong Hwa)(普)</title></programme>
 <programme start="20260329205000 +0800" stop="20260329210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jo Yuri)(普)</title></programme>
 <programme start="20260329205000 +0800" stop="20260329210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jo Yuri)(普)</title></programme>
+<programme start="20260329205000 +0800" stop="20260329210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jo Yuri)(普)</title></programme>
+<programme start="20260329205000 +0800" stop="20260329210000 +0800" channel="4gtv-4gtv016"><title lang="zh">本周主打星  (Jo Yuri)(普)</title></programme>
+<programme start="20260329210000 +0800" stop="20260329215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329210000 +0800" stop="20260329215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329210000 +0800" stop="20260329215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329210000 +0800" stop="20260329215000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329215000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
 <programme start="20260329215000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
+<programme start="20260329215000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
+<programme start="20260329215000 +0800" stop="20260329220000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Han Suk Kyu)(普)</title></programme>
+<programme start="20260329220000 +0800" stop="20260329225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329220000 +0800" stop="20260329225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329220000 +0800" stop="20260329225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329220000 +0800" stop="20260329225000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329225000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260329225000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
+<programme start="20260329225000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
+<programme start="20260329225000 +0800" stop="20260329230000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Jung Kyungho)(普)</title></programme>
 <programme start="20260329230000 +0800" stop="20260329235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
 <programme start="20260329230000 +0800" stop="20260329235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329230000 +0800" stop="20260329235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329230000 +0800" stop="20260329235000 +0800" channel="4gtv-4gtv016"><title lang="zh">韓綜精選(護)</title></programme>
+<programme start="20260329235000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
+<programme start="20260329235000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260329235000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <programme start="20260329235000 +0800" stop="20260330000000 +0800" channel="4gtv-4gtv016"><title lang="zh">哈燒藝人  (Nam Jihyun)(普)</title></programme>
 <channel id="4gtv-live080"><display-name lang="zh">ROCK Entertainment</display-name></channel>
@@ -12843,28 +13099,6 @@
 <programme start="20260329224900 +0800" stop="20260329233500 +0800" channel="4gtv-live010"><title lang="zh">珍珠耳環40</title></programme>
 <programme start="20260329233500 +0800" stop="20260330000100 +0800" channel="4gtv-live010"><title lang="zh">凜子小姐想試愛02</title></programme>
 <channel id="iNEWS"><display-name lang="zh">三立新聞iNEWS</display-name></channel>
-<programme start="20260327020000 +0800" stop="20260327030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
-<programme start="20260327030000 +0800" stop="20260327050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
-<programme start="20260327050000 +0800" stop="20260327060000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(重)</title><desc lang="zh"/></programme>
-<programme start="20260327070000 +0800" stop="20260327080000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
-<programme start="20260327080000 +0800" stop="20260327090000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
-<programme start="20260327090000 +0800" stop="20260327095500 +0800" channel="iNEWS"><title lang="zh">iNEWS0900整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327095500 +0800" stop="20260327105500 +0800" channel="iNEWS"><title lang="zh">iNEWS1000整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327105500 +0800" stop="20260327115500 +0800" channel="iNEWS"><title lang="zh">iNEWS1100整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327115500 +0800" stop="20260327140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
-<programme start="20260327140000 +0800" stop="20260327143000 +0800" channel="iNEWS"><title lang="zh">台股大贏家</title><desc lang="zh"/></programme>
-<programme start="20260327143000 +0800" stop="20260327150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1430整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327150000 +0800" stop="20260327160000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
-<programme start="20260327160000 +0800" stop="20260327170000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327170000 +0800" stop="20260327180000 +0800" channel="iNEWS"><title lang="zh">iNEWS1700整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260327195500 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
-<programme start="20260327195500 +0800" stop="20260327203000 +0800" channel="iNEWS"><title lang="zh">iNEWS大世界</title><desc lang="zh"/></programme>
-<programme start="20260327203000 +0800" stop="20260327210000 +0800" channel="iNEWS"><title lang="zh">全民i彩券</title><desc lang="zh"/></programme>
-<programme start="20260327210000 +0800" stop="20260327220000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
-<programme start="20260327220000 +0800" stop="20260327230000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(首)</title><desc lang="zh"/></programme>
-<programme start="20260327230000 +0800" stop="20260328000000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
-<programme start="20260328000000 +0800" stop="20260328010000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
 <programme start="20260328010000 +0800" stop="20260328020000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(重)</title><desc lang="zh"/></programme>
 <programme start="20260328020000 +0800" stop="20260328030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <programme start="20260328030000 +0800" stop="20260328050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
@@ -12925,21 +13159,21 @@
 <programme start="20260330115500 +0800" stop="20260330140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
 <programme start="20260330140000 +0800" stop="20260330143000 +0800" channel="iNEWS"><title lang="zh">台股大贏家</title><desc lang="zh"/></programme>
 <programme start="20260330143000 +0800" stop="20260330150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1430整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260330150000 +0800" stop="20260330160000 +0800" channel="iNEWS"><title lang="zh">智富食代</title><desc lang="zh"/></programme>
+<programme start="20260330150000 +0800" stop="20260330160000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
 <programme start="20260330160000 +0800" stop="20260330170000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
 <programme start="20260330170000 +0800" stop="20260330180000 +0800" channel="iNEWS"><title lang="zh">iNEWS1700整點新聞</title><desc lang="zh"/></programme>
 <programme start="20260330180000 +0800" stop="20260330195500 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
 <programme start="20260330195500 +0800" stop="20260330203000 +0800" channel="iNEWS"><title lang="zh">iNEWS大世界</title><desc lang="zh"/></programme>
 <programme start="20260330203000 +0800" stop="20260330210000 +0800" channel="iNEWS"><title lang="zh">全民i彩券</title><desc lang="zh"/></programme>
 <programme start="20260330210000 +0800" stop="20260330220000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
-<programme start="20260330220000 +0800" stop="20260330230000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(首)</title><desc lang="zh"/></programme>
+<programme start="20260330220000 +0800" stop="20260330230000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
 <programme start="20260330230000 +0800" stop="20260331000000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <programme start="20260331000000 +0800" stop="20260331010000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
-<programme start="20260331010000 +0800" stop="20260331020000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(重)</title><desc lang="zh"/></programme>
+<programme start="20260331010000 +0800" stop="20260331020000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
 <programme start="20260331020000 +0800" stop="20260331030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
 <programme start="20260331030000 +0800" stop="20260331050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
 <programme start="20260331050000 +0800" stop="20260331060000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260331060000 +0800" stop="20260331070000 +0800" channel="iNEWS"><title lang="zh">94要賺錢(重)</title><desc lang="zh"/></programme>
+<programme start="20260331060000 +0800" stop="20260331070000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
 <programme start="20260331070000 +0800" stop="20260331080000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
 <programme start="20260331080000 +0800" stop="20260331090000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
 <programme start="20260331090000 +0800" stop="20260331095500 +0800" channel="iNEWS"><title lang="zh">iNEWS0900整點新聞</title><desc lang="zh"/></programme>
@@ -12948,31 +13182,31 @@
 <programme start="20260331115500 +0800" stop="20260331140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
 <programme start="20260331140000 +0800" stop="20260331143000 +0800" channel="iNEWS"><title lang="zh">台股大贏家</title><desc lang="zh"/></programme>
 <programme start="20260331143000 +0800" stop="20260331150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1430整點新聞</title><desc lang="zh"/></programme>
-<programme start="20260331150000 +0800" stop="20260331160000 +0800" channel="iNEWS"><title lang="zh">智富食代</title><desc lang="zh"/></programme>
+<programme start="20260331150000 +0800" stop="20260331160000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
+<programme start="20260331160000 +0800" stop="20260331170000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260331170000 +0800" stop="20260331180000 +0800" channel="iNEWS"><title lang="zh">iNEWS1700整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260331195500 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
+<programme start="20260331195500 +0800" stop="20260331203000 +0800" channel="iNEWS"><title lang="zh">iNEWS大世界</title><desc lang="zh"/></programme>
+<programme start="20260331203000 +0800" stop="20260331210000 +0800" channel="iNEWS"><title lang="zh">全民i彩券</title><desc lang="zh"/></programme>
+<programme start="20260331210000 +0800" stop="20260331220000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
+<programme start="20260331220000 +0800" stop="20260331230000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
+<programme start="20260331230000 +0800" stop="20260401000000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401010000 +0800" channel="iNEWS"><title lang="zh">Catch大錢潮</title><desc lang="zh"/></programme>
+<programme start="20260401010000 +0800" stop="20260401020000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
+<programme start="20260401020000 +0800" stop="20260401030000 +0800" channel="iNEWS"><title lang="zh">2300iNEWS財經夜世界</title><desc lang="zh"/></programme>
+<programme start="20260401030000 +0800" stop="20260401050000 +0800" channel="iNEWS"><title lang="zh">1819錢進大頭條</title><desc lang="zh"/></programme>
+<programme start="20260401050000 +0800" stop="20260401060000 +0800" channel="iNEWS"><title lang="zh">iNEWS1600整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401070000 +0800" channel="iNEWS"><title lang="zh">94要賺錢三立新聞</title><desc lang="zh"/></programme>
+<programme start="20260401070000 +0800" stop="20260401080000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
+<programme start="20260401080000 +0800" stop="20260401090000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經早報</title><desc lang="zh"/></programme>
+<programme start="20260401090000 +0800" stop="20260401095500 +0800" channel="iNEWS"><title lang="zh">iNEWS0900整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260401095500 +0800" stop="20260401105500 +0800" channel="iNEWS"><title lang="zh">iNEWS1000整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260401105500 +0800" stop="20260401115500 +0800" channel="iNEWS"><title lang="zh">iNEWS1100整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260401115500 +0800" stop="20260401140000 +0800" channel="iNEWS"><title lang="zh">iNEWS財經午報</title><desc lang="zh"/></programme>
+<programme start="20260401140000 +0800" stop="20260401143000 +0800" channel="iNEWS"><title lang="zh">台股大贏家</title><desc lang="zh"/></programme>
+<programme start="20260401143000 +0800" stop="20260401150000 +0800" channel="iNEWS"><title lang="zh">iNEWS1430整點新聞</title><desc lang="zh"/></programme>
+<programme start="20260401150000 +0800" stop="20260401160000 +0800" channel="iNEWS"><title lang="zh">全球新食力</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv158"><display-name lang="zh">寰宇財經台</display-name></channel>
-<programme start="20260327020000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
-<programme start="20260327030000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv158"><title lang="zh">台灣大代誌#1</title><desc lang="zh"/></programme>
-<programme start="20260327040000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
-<programme start="20260327050000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260327070000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
-<programme start="20260327080000 +0800" stop="20260327090000 +0800" channel="4gtv-4gtv158"><title lang="zh">財經透視線</title><desc lang="zh"/></programme>
-<programme start="20260327090000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260327100000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260327110000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260327120000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260327130000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260327140000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv158"><title lang="zh">股海大丈夫</title><desc lang="zh"/></programme>
-<programme start="20260327150000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
-<programme start="20260327160000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
-<programme start="20260327170000 +0800" stop="20260327180000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
-<programme start="20260327190000 +0800" stop="20260327200000 +0800" channel="4gtv-4gtv158"><title lang="zh">打卡吧!我的炫FOOD日記</title><desc lang="zh"/></programme>
-<programme start="20260327200000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
-<programme start="20260327210000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv158"><title lang="zh">兆華艾綸說</title><desc lang="zh"/></programme>
-<programme start="20260327220000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv158"><title lang="zh">寶傑點兵</title><desc lang="zh"/></programme>
-<programme start="20260327230000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv158"><title lang="zh">57爆新聞</title><desc lang="zh"/></programme>
-<programme start="20260328000000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
 <programme start="20260328010000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv158"><title lang="zh">超自然實驗室</title><desc lang="zh"/></programme>
 <programme start="20260328020000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
 <programme start="20260328030000 +0800" stop="20260328040000 +0800" channel="4gtv-4gtv158"><title lang="zh">台灣大代誌#1</title><desc lang="zh"/></programme>
@@ -13034,7 +13268,7 @@
 <programme start="20260330110000 +0800" stop="20260330120000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
 <programme start="20260330120000 +0800" stop="20260330130000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
 <programme start="20260330130000 +0800" stop="20260330140000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260330140000 +0800" stop="20260330150000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260330140000 +0800" stop="20260330150000 +0800" channel="4gtv-4gtv158"><title lang="zh">股海大丈夫</title><desc lang="zh"/></programme>
 <programme start="20260330150000 +0800" stop="20260330160000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <programme start="20260330160000 +0800" stop="20260330170000 +0800" channel="4gtv-4gtv158"><title lang="zh">超自然實驗室</title><desc lang="zh"/></programme>
 <programme start="20260330170000 +0800" stop="20260330180000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
@@ -13058,13 +13292,33 @@
 <programme start="20260331110000 +0800" stop="20260331120000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
 <programme start="20260331120000 +0800" stop="20260331130000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
 <programme start="20260331130000 +0800" stop="20260331140000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
-<programme start="20260331140000 +0800" stop="20260331150000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260331140000 +0800" stop="20260331150000 +0800" channel="4gtv-4gtv158"><title lang="zh">股海大丈夫</title><desc lang="zh"/></programme>
 <programme start="20260331150000 +0800" stop="20260331160000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
+<programme start="20260331160000 +0800" stop="20260331170000 +0800" channel="4gtv-4gtv158"><title lang="zh">超自然實驗室</title><desc lang="zh"/></programme>
+<programme start="20260331170000 +0800" stop="20260331180000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260331190000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260331190000 +0800" stop="20260331200000 +0800" channel="4gtv-4gtv158"><title lang="zh">銅板美食呷透透</title><desc lang="zh"/></programme>
+<programme start="20260331200000 +0800" stop="20260331210000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
+<programme start="20260331210000 +0800" stop="20260331220000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
+<programme start="20260331220000 +0800" stop="20260331230000 +0800" channel="4gtv-4gtv158"><title lang="zh">寶傑點兵</title><desc lang="zh"/></programme>
+<programme start="20260331230000 +0800" stop="20260401000000 +0800" channel="4gtv-4gtv158"><title lang="zh">57爆新聞</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401010000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260401010000 +0800" stop="20260401020000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
+<programme start="20260401020000 +0800" stop="20260401030000 +0800" channel="4gtv-4gtv158"><title lang="zh">寰宇追追追</title><desc lang="zh"/></programme>
+<programme start="20260401030000 +0800" stop="20260401040000 +0800" channel="4gtv-4gtv158"><title lang="zh">古今風雲</title><desc lang="zh"/></programme>
+<programme start="20260401040000 +0800" stop="20260401050000 +0800" channel="4gtv-4gtv158"><title lang="zh">巷弄美食家</title><desc lang="zh"/></programme>
+<programme start="20260401050000 +0800" stop="20260401060000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401070000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
+<programme start="20260401070000 +0800" stop="20260401080000 +0800" channel="4gtv-4gtv158"><title lang="zh">理財達人秀</title><desc lang="zh"/></programme>
+<programme start="20260401080000 +0800" stop="20260401090000 +0800" channel="4gtv-4gtv158"><title lang="zh">財經透視線</title><desc lang="zh"/></programme>
+<programme start="20260401090000 +0800" stop="20260401100000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
+<programme start="20260401100000 +0800" stop="20260401110000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
+<programme start="20260401110000 +0800" stop="20260401120000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
+<programme start="20260401120000 +0800" stop="20260401130000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
+<programme start="20260401130000 +0800" stop="20260401140000 +0800" channel="4gtv-4gtv158"><title lang="zh">台股線上</title><desc lang="zh"/></programme>
+<programme start="20260401140000 +0800" stop="20260401150000 +0800" channel="4gtv-4gtv158"><title lang="zh">美食打卡趣</title><desc lang="zh"/></programme>
+<programme start="20260401150000 +0800" stop="20260401160000 +0800" channel="4gtv-4gtv158"><title lang="zh">小食光台味誌</title><desc lang="zh"/></programme>
 <channel id="nnews-zh"><display-name lang="zh">倪珍播新聞</display-name></channel>
-<programme start="20260327000000 +0800" stop="20260327060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
-<programme start="20260327120000 +0800" stop="20260327180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260328000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260328000000 +0800" stop="20260328060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260328060000 +0800" stop="20260328120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
 <programme start="20260328120000 +0800" stop="20260328180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
@@ -13079,50 +13333,11 @@
 <programme start="20260330180000 +0800" stop="20260331000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260331000000 +0800" stop="20260331060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
 <programme start="20260331060000 +0800" stop="20260331120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
+<programme start="20260331120000 +0800" stop="20260331180000 +0800" channel="nnews-zh"><title lang="zh">午安新聞</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260401000000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401060000 +0800" channel="nnews-zh"><title lang="zh">晚安新聞</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401120000 +0800" channel="nnews-zh"><title lang="zh">早安新聞</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv104"><display-name lang="zh">第1商業台</display-name></channel>
-<programme start="20260327020000 +0800" stop="20260327023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
-<programme start="20260327023000 +0800" stop="20260327030000 +0800" channel="4gtv-4gtv104"><title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title><desc lang="zh"/></programme>
-<programme start="20260327030000 +0800" stop="20260327033000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260327033000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260327040000 +0800" stop="20260327043000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
-<programme start="20260327043000 +0800" stop="20260327050000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260327050000 +0800" stop="20260327053000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260327053000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327063000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
-<programme start="20260327063000 +0800" stop="20260327070000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
-<programme start="20260327070000 +0800" stop="20260327073000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260327073000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
-<programme start="20260327080000 +0800" stop="20260327083000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327083000 +0800" stop="20260327093000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327093000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327100000 +0800" stop="20260327103000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327103000 +0800" stop="20260327110000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327110000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327120000 +0800" stop="20260327130000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327130000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
-<programme start="20260327140000 +0800" stop="20260327143000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260327143000 +0800" stop="20260327150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
-<programme start="20260327150000 +0800" stop="20260327153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260327153000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260327160000 +0800" stop="20260327163000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
-<programme start="20260327163000 +0800" stop="20260327170000 +0800" channel="4gtv-4gtv104"><title lang="zh">汪海華_操盤的智慧</title><desc lang="zh"/></programme>
-<programme start="20260327170000 +0800" stop="20260327173000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
-<programme start="20260327173000 +0800" stop="20260327180000 +0800" channel="4gtv-4gtv104"><title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260327183000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260327183000 +0800" stop="20260327190000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260327190000 +0800" stop="20260327193000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
-<programme start="20260327193000 +0800" stop="20260327200000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
-<programme start="20260327200000 +0800" stop="20260327203000 +0800" channel="4gtv-4gtv104"><title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title><desc lang="zh"/></programme>
-<programme start="20260327203000 +0800" stop="20260327210000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
-<programme start="20260327210000 +0800" stop="20260327213000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
-<programme start="20260327213000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260327220000 +0800" stop="20260327223000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
-<programme start="20260327223000 +0800" stop="20260327230000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
-<programme start="20260327230000 +0800" stop="20260327233000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260327233000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
-<programme start="20260328000000 +0800" stop="20260328003000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
-<programme start="20260328003000 +0800" stop="20260328010000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
-<programme start="20260328010000 +0800" stop="20260328013000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <programme start="20260328013000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
 <programme start="20260328020000 +0800" stop="20260328023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
 <programme start="20260328023000 +0800" stop="20260328030000 +0800" channel="4gtv-4gtv104"><title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title><desc lang="zh"/></programme>
@@ -13280,42 +13495,51 @@
 <programme start="20260331143000 +0800" stop="20260331150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
 <programme start="20260331150000 +0800" stop="20260331153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
 <programme start="20260331153000 +0800" stop="20260331160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260331160000 +0800" stop="20260331163000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
+<programme start="20260331163000 +0800" stop="20260331170000 +0800" channel="4gtv-4gtv104"><title lang="zh">汪海華_操盤的智慧</title><desc lang="zh"/></programme>
+<programme start="20260331170000 +0800" stop="20260331173000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
+<programme start="20260331173000 +0800" stop="20260331180000 +0800" channel="4gtv-4gtv104"><title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260331183000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260331183000 +0800" stop="20260331190000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260331190000 +0800" stop="20260331193000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
+<programme start="20260331193000 +0800" stop="20260331200000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260331200000 +0800" stop="20260331203000 +0800" channel="4gtv-4gtv104"><title lang="zh">國家寶藏-啟發投顧-林國寶分析師</title><desc lang="zh"/></programme>
+<programme start="20260331203000 +0800" stop="20260331210000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260331210000 +0800" stop="20260331213000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
+<programme start="20260331213000 +0800" stop="20260331220000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260331220000 +0800" stop="20260331223000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
+<programme start="20260331223000 +0800" stop="20260331230000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
+<programme start="20260331230000 +0800" stop="20260331233000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260331233000 +0800" stop="20260401000000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401003000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260401003000 +0800" stop="20260401010000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260401010000 +0800" stop="20260401013000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260401013000 +0800" stop="20260401020000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260401020000 +0800" stop="20260401023000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市第一線-顧德投顧-李冠嶔分析師</title><desc lang="zh"/></programme>
+<programme start="20260401023000 +0800" stop="20260401030000 +0800" channel="4gtv-4gtv104"><title lang="zh">月薪翻倍計畫-顧德投顧-黃紫東分析師</title><desc lang="zh"/></programme>
+<programme start="20260401030000 +0800" stop="20260401033000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260401033000 +0800" stop="20260401040000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260401040000 +0800" stop="20260401043000 +0800" channel="4gtv-4gtv104"><title lang="zh">旗開得勝-顧德投顧-張家豪分析師</title><desc lang="zh"/></programme>
+<programme start="20260401043000 +0800" stop="20260401050000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
+<programme start="20260401050000 +0800" stop="20260401053000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市強強滾-亞洲投顧-鄭偉群分析師</title><desc lang="zh"/></programme>
+<programme start="20260401053000 +0800" stop="20260401060000 +0800" channel="4gtv-4gtv104"><title lang="zh">台股Lunchtime-亞洲投顧-王兆立分析師</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401063000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士俊分析師</title><desc lang="zh"/></programme>
+<programme start="20260401063000 +0800" stop="20260401070000 +0800" channel="4gtv-4gtv104"><title lang="zh">王博賺錢策略室-顧德投顧-王建文分析師</title><desc lang="zh"/></programme>
+<programme start="20260401070000 +0800" stop="20260401073000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260401073000 +0800" stop="20260401080000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市全攻略-豐銀投顧-龔鴻彬分析師</title><desc lang="zh"/></programme>
+<programme start="20260401080000 +0800" stop="20260401083000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401083000 +0800" stop="20260401093000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401093000 +0800" stop="20260401100000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401100000 +0800" stop="20260401103000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401103000 +0800" stop="20260401110000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401110000 +0800" stop="20260401120000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401120000 +0800" stop="20260401130000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401130000 +0800" stop="20260401140000 +0800" channel="4gtv-4gtv104"><title lang="zh">財經資訊</title><desc lang="zh"/></programme>
+<programme start="20260401140000 +0800" stop="20260401143000 +0800" channel="4gtv-4gtv104"><title lang="zh">股市吳限鑽-寶得富-吳曉松分析師</title><desc lang="zh"/></programme>
+<programme start="20260401143000 +0800" stop="20260401150000 +0800" channel="4gtv-4gtv104"><title lang="zh">啟發投顧精選</title><desc lang="zh"/></programme>
+<programme start="20260401150000 +0800" stop="20260401153000 +0800" channel="4gtv-4gtv104"><title lang="zh">阪田戰法-寶得富-顧奎國分析師</title><desc lang="zh"/></programme>
+<programme start="20260401153000 +0800" stop="20260401160000 +0800" channel="4gtv-4gtv104"><title lang="zh">期股衝衝衝-寶得富-翁士峻分析師</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv102"><display-name lang="zh">東森購物1台</display-name></channel>
-<programme start="20260327020000 +0800" stop="20260327024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327024000 +0800" stop="20260327032000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327032000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327040000 +0800" stop="20260327044000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327044000 +0800" stop="20260327052000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327052000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327064000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327064000 +0800" stop="20260327072000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327072000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327080000 +0800" stop="20260327084000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327084000 +0800" stop="20260327092000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327092000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327100000 +0800" stop="20260327104000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327104000 +0800" stop="20260327112000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327112000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327120000 +0800" stop="20260327124000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327124000 +0800" stop="20260327132000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327132000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327140000 +0800" stop="20260327144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327144000 +0800" stop="20260327152000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327152000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327160000 +0800" stop="20260327164000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327164000 +0800" stop="20260327172000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327172000 +0800" stop="20260327180000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327184000 +0800" stop="20260327192000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327192000 +0800" stop="20260327200000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327200000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327204000 +0800" stop="20260327212000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327212000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327220000 +0800" stop="20260327224000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327224000 +0800" stop="20260327232000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327232000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260328000000 +0800" stop="20260328004000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260328004000 +0800" stop="20260328012000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260328012000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
 <programme start="20260328020000 +0800" stop="20260328024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260328024000 +0800" stop="20260328032000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
@@ -13446,42 +13670,43 @@
 <programme start="20260331140000 +0800" stop="20260331144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260331144000 +0800" stop="20260331152000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
 <programme start="20260331152000 +0800" stop="20260331160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331160000 +0800" stop="20260331164000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331164000 +0800" stop="20260331172000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331172000 +0800" stop="20260331180000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260331184000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331184000 +0800" stop="20260331192000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331192000 +0800" stop="20260331200000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331200000 +0800" stop="20260331204000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331204000 +0800" stop="20260331212000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331212000 +0800" stop="20260331220000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331220000 +0800" stop="20260331224000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331224000 +0800" stop="20260331232000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331232000 +0800" stop="20260401000000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401004000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401004000 +0800" stop="20260401012000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401012000 +0800" stop="20260401020000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401020000 +0800" stop="20260401024000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401024000 +0800" stop="20260401032000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401032000 +0800" stop="20260401040000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401040000 +0800" stop="20260401044000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401044000 +0800" stop="20260401052000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401052000 +0800" stop="20260401060000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401064000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401064000 +0800" stop="20260401072000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401072000 +0800" stop="20260401080000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401080000 +0800" stop="20260401084000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401084000 +0800" stop="20260401092000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401092000 +0800" stop="20260401100000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401100000 +0800" stop="20260401104000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401104000 +0800" stop="20260401112000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401112000 +0800" stop="20260401120000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401120000 +0800" stop="20260401124000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401124000 +0800" stop="20260401132000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401132000 +0800" stop="20260401140000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401140000 +0800" stop="20260401144000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401144000 +0800" stop="20260401152000 +0800" channel="4gtv-4gtv102"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401152000 +0800" stop="20260401160000 +0800" channel="4gtv-4gtv102"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <channel id="4gtv-4gtv103"><display-name lang="zh">東森購物2台</display-name></channel>
-<programme start="20260327020000 +0800" stop="20260327024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327024000 +0800" stop="20260327032000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327032000 +0800" stop="20260327040000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327040000 +0800" stop="20260327044000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327044000 +0800" stop="20260327052000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327052000 +0800" stop="20260327060000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327060000 +0800" stop="20260327064000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327064000 +0800" stop="20260327072000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327072000 +0800" stop="20260327080000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327080000 +0800" stop="20260327084000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327084000 +0800" stop="20260327092000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327092000 +0800" stop="20260327100000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327100000 +0800" stop="20260327104000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327104000 +0800" stop="20260327112000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327112000 +0800" stop="20260327120000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327120000 +0800" stop="20260327124000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327124000 +0800" stop="20260327132000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327132000 +0800" stop="20260327140000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327140000 +0800" stop="20260327144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327144000 +0800" stop="20260327152000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327152000 +0800" stop="20260327160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327160000 +0800" stop="20260327164000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327164000 +0800" stop="20260327172000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327172000 +0800" stop="20260327180000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327180000 +0800" stop="20260327184000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327184000 +0800" stop="20260327192000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327192000 +0800" stop="20260327200000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327200000 +0800" stop="20260327204000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327204000 +0800" stop="20260327212000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327212000 +0800" stop="20260327220000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327220000 +0800" stop="20260327224000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260327224000 +0800" stop="20260327232000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260327232000 +0800" stop="20260328000000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
-<programme start="20260328000000 +0800" stop="20260328004000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
-<programme start="20260328004000 +0800" stop="20260328012000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260328012000 +0800" stop="20260328020000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
 <programme start="20260328020000 +0800" stop="20260328024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260328024000 +0800" stop="20260328032000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
@@ -13612,4 +13837,40 @@
 <programme start="20260331140000 +0800" stop="20260331144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 <programme start="20260331144000 +0800" stop="20260331152000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
 <programme start="20260331152000 +0800" stop="20260331160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331160000 +0800" stop="20260331164000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331164000 +0800" stop="20260331172000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331172000 +0800" stop="20260331180000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331180000 +0800" stop="20260331184000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331184000 +0800" stop="20260331192000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331192000 +0800" stop="20260331200000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331200000 +0800" stop="20260331204000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331204000 +0800" stop="20260331212000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331212000 +0800" stop="20260331220000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331220000 +0800" stop="20260331224000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260331224000 +0800" stop="20260331232000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260331232000 +0800" stop="20260401000000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401000000 +0800" stop="20260401004000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401004000 +0800" stop="20260401012000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401012000 +0800" stop="20260401020000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401020000 +0800" stop="20260401024000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401024000 +0800" stop="20260401032000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401032000 +0800" stop="20260401040000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401040000 +0800" stop="20260401044000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401044000 +0800" stop="20260401052000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401052000 +0800" stop="20260401060000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401060000 +0800" stop="20260401064000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401064000 +0800" stop="20260401072000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401072000 +0800" stop="20260401080000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401080000 +0800" stop="20260401084000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401084000 +0800" stop="20260401092000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401092000 +0800" stop="20260401100000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401100000 +0800" stop="20260401104000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401104000 +0800" stop="20260401112000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401112000 +0800" stop="20260401120000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401120000 +0800" stop="20260401124000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401124000 +0800" stop="20260401132000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401132000 +0800" stop="20260401140000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401140000 +0800" stop="20260401144000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
+<programme start="20260401144000 +0800" stop="20260401152000 +0800" channel="4gtv-4gtv103"><title lang="zh">3/1-3/31全月消費滿3件享1680枚東森幣兌換【韓國熱銷折疊收納箱3入組】(每人限1次)</title><desc lang="zh"/></programme>
+<programme start="20260401152000 +0800" stop="20260401160000 +0800" channel="4gtv-4gtv103"><title lang="zh">鎖定CH.43、CH.49選購</title><desc lang="zh"/></programme>
 </tv>
